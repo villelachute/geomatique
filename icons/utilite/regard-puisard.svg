@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_1"
+   enable-background="new 0 0 611.328 611.328"
+   height="512"
+   viewBox="0 0 611.328 611.328"
+   width="512"
+   version="1.1"
+   sodipodi:docname="regard-puisard.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1159029"
+     inkscape:cx="256.2947"
+     inkscape:cy="255.84664"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-1929"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <g
+     id="g1013">
+    <circle
+       style="fill:#b6f7ab;fill-opacity:1;stroke:#ffffff;stroke-width:0"
+       id="path885"
+       cx="307.18307"
+       cy="306.42651"
+       r="217.905" />
+    <path
+       d="M 305.664,611.328 C 136.85,611.328 0,474.477 0,305.664 0,136.851 136.85,0 305.664,0 c 168.814,0 305.664,136.85 305.664,305.664 0,168.814 -136.851,305.664 -305.664,305.664 z m 0,-89.902 c 119.162,0 215.763,-96.6 215.763,-215.763 C 521.427,186.5 424.827,89.9 305.664,89.9 186.501,89.9 89.901,186.5 89.901,305.663 c 0,119.163 96.6,215.763 215.763,215.763 z m 80.911,-55.15 c -19.249,9.716 -40.483,16.073 -62.931,18.302 V 126.749 c 22.448,2.229 43.682,8.586 62.931,18.302 z m 35.96,-297.254 c 38.52,32.977 62.931,81.959 62.931,136.642 0,54.683 -24.411,103.665 -62.931,136.642 z m -197.782,-23.97 c 19.249,-9.716 40.483,-16.073 62.931,-18.302 v 357.829 c -22.448,-2.229 -43.682,-8.586 -62.931,-18.302 z m -98.891,160.612 c 0,-54.683 24.411,-103.665 62.931,-136.642 v 273.284 c -38.52,-32.977 -62.931,-81.959 -62.931,-136.642 z"
+       id="path2"
+       style="fill:#1fa032;fill-opacity:1" />
+  </g>
+</svg>
