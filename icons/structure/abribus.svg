@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="recharge_voiture.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#75c73f;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       transform="matrix(0.28179163,0,0,0.28179163,46.923843,46.64191)"
+       id="g12">
+      <g
+         id="g10">
+        <g
+           id="g8-2">
+          <path
+             d="M 435.2,30.867 H 76.8 C 34.458,30.867 0,65.316 0,107.667 v 8.533 h 34.133 v 341.333 c 0,14.114 11.486,25.6 25.6,25.6 14.114,0 25.6,-11.486 25.6,-25.6 V 116.2 H 247.466 V 286.867 H 144.171 c -8.917,0 -16.171,7.253 -16.171,16.171 v 70.733 c -9.907,3.533 -17.067,12.919 -17.067,24.03 0,11.11 7.159,20.497 17.067,24.03 v 52.77 c 0,4.719 3.823,8.533 8.533,8.533 4.71,0 8.533,-3.814 8.533,-8.533 v -51.2 h 221.867 v 51.2 c 0,4.719 3.823,8.533 8.533,8.533 4.71,0 8.534,-3.815 8.534,-8.534 v -52.77 c 9.907,-3.533 17.067,-12.919 17.067,-24.03 0,-11.11 -7.159,-20.497 -17.067,-24.03 v -70.733 c 0,-8.917 -7.253,-16.171 -16.171,-16.171 H 264.533 V 116.2 h 162.133 v 341.333 c 0,14.114 11.486,25.6 25.6,25.6 14.114,0 25.6,-11.486 25.6,-25.6 V 116.2 H 512 v -8.533 c 0,-42.351 -34.458,-76.8 -76.8,-76.8 z M 170.667,329.533 h 25.6 c 4.71,0 8.533,3.814 8.533,8.533 0,4.719 -3.823,8.533 -8.533,8.533 h -25.6 c -4.71,0 -8.533,-3.814 -8.533,-8.533 -10e-4,-4.718 3.822,-8.533 8.533,-8.533 z m 204.8,59.734 c 4.702,0 8.533,3.823 8.533,8.533 0,4.71 -3.831,8.533 -8.533,8.533 H 136.533 c -4.702,0 -8.533,-3.823 -8.533,-8.533 0,-4.71 3.831,-8.533 8.533,-8.533 z m -59.734,-59.734 h 25.6 c 4.71,0 8.533,3.814 8.533,8.533 0,4.719 -3.823,8.533 -8.533,8.533 h -25.6 c -4.71,0 -8.533,-3.814 -8.533,-8.533 0,-4.718 3.823,-8.533 8.533,-8.533 z m -42.666,0 c 4.71,0 8.533,3.814 8.533,8.533 0,4.719 -3.823,8.533 -8.533,8.533 h -34.133 c -4.71,0 -8.533,-3.814 -8.533,-8.533 0,-4.719 3.823,-8.533 8.533,-8.533 z"
+             id="path2" />
+          <path
+             d="m 213.333,227.133 c 4.71,0 8.533,-3.814 8.533,-8.533 v -68.267 c 0,-4.719 -3.823,-8.533 -8.533,-8.533 h -93.867 c -4.71,0 -8.533,3.814 -8.533,8.533 V 218.6 c 0,4.719 3.823,8.533 8.533,8.533 z"
+             id="path4" />
+          <path
+             d="m 392.533,141.8 h -93.867 c -4.71,0 -8.533,3.814 -8.533,8.533 V 218.6 c 0,4.719 3.823,8.533 8.533,8.533 h 93.867 c 4.71,0 8.533,-3.814 8.533,-8.533 v -68.267 c 0.001,-4.719 -3.822,-8.533 -8.533,-8.533 z"
+             id="path6" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="banc_parc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#c8aa4a;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       id="g870"
+       transform="matrix(0.29221765,0,0,0.29221765,44.254782,44.254782)">
+      <g
+         id="g6">
+        <g
+           id="g4">
+          <path
+             d="M 62.29,180 88.56,471.07 C 90.7,494.41 109.95,512 133.39,512 H 378.6 c 23.44,0 42.69,-17.59 44.83,-40.93 L 449.7,180 Z m 116.66,271.99 c -0.24,0.01 -0.47,0.01 -0.68,0.01 -7.97,0 -14.62,-6.27 -14.97,-14.31 l -9.55,-212 c -0.38,-8.28 6.01,-15.29 14.3,-15.67 9.37,-0.27 15.29,6.05 15.64,14.29 l 9.55,212 c 0.38,8.28 -6,15.3 -14.29,15.68 z M 271,437 c 0,8.29 -6.71,15 -15,15 -8.29,0 -15,-6.71 -15,-15 V 225 c 0,-8.29 6.71,-15 15,-15 8.29,0 15,6.71 15,15 z m 77.69,0.69 c -0.35,8.04 -7,14.31 -14.97,14.31 -0.2,0 -0.44,0 -0.67,-0.01 -8.29,-0.38 -14.68,-7.4 -14.3,-15.68 l 9.55,-212 c 0.38,-8.24 6.33,-14.44 15.65,-14.29 8.29,0.38 14.67,7.39 14.29,15.67 z"
+             id="path2" />
+        </g>
+      </g>
+      <g
+         id="g12">
+        <g
+           id="g10">
+          <path
+             d="M 406,60 H 361 V 45 C 361,20.19 340.81,0 316,0 H 196 C 171.18,0 151,20.19 151,45 V 60 H 106 C 64.63,60 31,93.65 31,135 v 15 H 481 V 135 C 481,93.65 447.36,60 406,60 Z m -75,0 H 181 V 45 c 0,-8.28 6.73,-15 15,-15 h 120 c 8.26,0 15,6.72 15,15 z"
+             id="path8" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

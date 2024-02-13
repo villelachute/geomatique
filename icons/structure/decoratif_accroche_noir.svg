@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="boite_cable.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#c84a6a;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       fill="#37a91a"
+       stroke-width="0.32486"
+       id="g30"
+       transform="matrix(1.000021,0,0,1.000021,-0.00390034,-0.00400034)"
+       style="fill:#061c00;fill-opacity:1">
+      <path
+         d="m 178.84,69.683 h 5.1978 v -7.7967 l -15.593,-7.7967 h -31.187 l -15.593,7.7967 v 7.7967 z"
+         id="path4"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 147.65,43.694 h 10.396 V 54.09 H 147.65 Z"
+         id="path6"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 178.84,69.683 -0.57232,2.5989 -9.8233,44.182 h -15.593 v -46.78 z"
+         id="path8"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 152.85,69.683 v 46.78 h -15.593 l -9.8233,-44.182 -0.57232,-2.5989 z"
+         id="path10"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="M 168.44,126.86 V 116.464 H 137.253 V 126.86 Z"
+         id="path12"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="M 160.65,137.25 V 126.854 H 145.057 V 137.25 Z"
+         id="path14"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 147.65,178.84 h 5.1978 c 2.8705,0 5.1978,-2.3274 5.1978,-5.1978 v -36.385 h -10.396 v 31.187 h -77.967 v 10.396 z"
+         id="path16"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="M 69.683,178.84 V 152.851 H 54.09 v 41.583 h 15.593 z"
+         id="path18"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 147.65,51.491 h 10.396 v 2.5989 H 147.65 Z"
+         id="path20"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 152.85,69.683 v 2.5989 h -25.417 l -0.57232,-2.5989 z"
+         id="path22"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 178.84,69.683 -0.57232,2.5989 h -25.417 V 69.683 Z"
+         id="path24"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 145.05,126.86 h 15.593 v 2.5989 H 145.05 Z"
+         id="path26"
+         style="fill:#061c00;fill-opacity:1" />
+      <path
+         d="m 147.65,137.25 h 10.396 v 2.5989 H 147.65 Z"
+         id="path28"
+         style="fill:#061c00;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

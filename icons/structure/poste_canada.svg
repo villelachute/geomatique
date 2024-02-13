@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="jardiniere.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#c84a6c;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       id="g4"
+       transform="matrix(0.31272513,0,0,0.31272513,39.004867,39.004867)">
+      <path
+         clip-rule="evenodd"
+         d="m 406.588,504.471 c 0,4.158 -3.371,7.529 -7.529,7.529 H 384 c -4.159,0 -7.529,-3.371 -7.529,-7.529 V 436.706 H 135.529 v 67.765 c 0,4.158 -3.371,7.529 -7.529,7.529 h -15.059 c -4.159,0 -7.529,-3.371 -7.529,-7.529 V 150.588 C 105.412,67.415 172.821,0 256,0 339.177,0 406.588,67.402 406.588,150.588 Z M 346.353,180.706 v -60.235 c 0,-8.317 -6.742,-15.059 -15.059,-15.059 H 180.706 c -8.317,0 -15.059,6.742 -15.059,15.059 v 60.235 c 0,8.317 6.742,15.059 15.059,15.059 h 150.588 c 8.317,0 15.059,-6.742 15.059,-15.059 z m 7.168,79.53 c -1.502,-6.733 -7.512,-11.765 -14.698,-11.765 H 173.176 c -7.185,0 -13.195,5.033 -14.698,11.765 L 256,325.25 Z m 0.361,26.906 -91.618,61.078 c -3.794,2.529 -8.736,2.529 -12.529,0 l -91.618,-61.078 v 74.269 c 0,8.317 6.742,15.059 15.059,15.059 h 165.647 c 8.317,0 15.059,-6.742 15.059,-15.059 z M 316.235,135.529 v 30.118 h -120.47 v -30.118 z"
+         fill-rule="evenodd"
+         id="path2" />
+    </g>
+  </g>
+</svg>

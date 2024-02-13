@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="cobra_surpied.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.66245342"
+     inkscape:cx="401.53766"
+     inkscape:cy="408.33059"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#9d5743;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <path
+       d="m 194.65512,80.384619 h -32.98607 c -2.11895,0 -4.01424,0.947847 -5.29442,2.438405 h -8.28045 c -0.29176,0 -0.58244,0.0029 -0.86738,0.0085 -6.43622,-0.595824 -21.06503,8.607138 -21.06503,8.607138 l -89.652319,54.546918 0.358072,10.92354 95.557317,-57.927558 v 0 c 0,0 8.75574,-6.506614 15.07488,-7.610593 0.1973,-0.004 0.39594,-0.0058 0.59446,-0.0058 h 6.59336 v 4.84859 h 13.2286 c 0,6.218701 6.92204,11.090411 15.75783,11.090411 8.83621,0 15.7575,-4.87132 15.7575,-11.090411 h 2.20493 v -8.84519 c 0,-3.855898 -3.12512,-6.981326 -6.98128,-6.981326 z M 183.6744,103.45866 c -6.45889,0 -11.91483,-3.3188 -11.91483,-7.247755 h 23.8299 c -3.9e-4,3.928955 -5.45662,7.247755 -11.91507,7.247755 z"
+       id="path2"
+       style="fill:#a7a7a7;fill-opacity:1;stroke:#ffffff;stroke-width:2.24264;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cscscccccccscccsccsccsccs" />
+  </g>
+</svg>

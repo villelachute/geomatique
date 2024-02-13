@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="compteur_vitesse.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#eca6f2;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       id="Layer_77"
+       data-name="Layer 77"
+       transform="matrix(2.3091739,0,0,2.3091739,45.168931,45.076583)">
+      <path
+         d="m 56.12,40.08 a 5.24,5.24 0 0 0 -1.61,-6.55 l -29,-21 a 5.24,5.24 0 0 0 -7.32,1.17 l -8.05,11.12 a 5.25,5.25 0 0 0 1.17,7.32 L 25.84,42.68 17.39,54.34 H 5 v -3.73 a 1,1 0 0 0 -2,0 v 9.47 a 1,1 0 0 0 2,0 v -3.74 h 12.9 a 1,1 0 0 0 0.81,-0.41 l 8.75,-12.08 12.83,9.3 a 5.23,5.23 0 0 0 6.73,-0.5 l 4.44,3.22 a 1,1 0 0 0 1.39,-0.23 l 7.94,-11 a 1,1 0 0 0 -0.22,-1.39 z m -4.3,13.58 -3.56,-2.58 6.74,-9.33 3.56,2.58 z"
+         id="path2-3" />
+      <path
+         d="M 45.14,5 A 13.92,13.92 0 0 1 59,18.92 a 1,1 0 0 0 2,0 A 15.91,15.91 0 0 0 45.15,3 1.0000125,1.0000125 0 0 0 45.14,5 Z"
+         id="path4-4" />
+      <path
+         d="m 45.14,9.17 a 9.75,9.75 0 0 1 9.69,9.75 1,1 0 0 0 2,0 11.74,11.74 0 0 0 -11.68,-11.75 1.0000125,1.0000125 0 0 0 -0.01,2 z"
+         id="path6" />
+      <path
+         d="m 45.14,13.34 a 5.57,5.57 0 0 1 5.51,5.58 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 7.56,7.56 0 0 0 -7.5,-7.55 1,1 0 0 0 -0.01,1.97 z"
+         id="path8" />
+      <path
+         d="m 45.12,22.26 a 3.37,3.37 0 0 0 0,-6.74 3.37,3.37 0 0 0 0,6.74 z"
+         id="path10" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="900"
+   height="900"
+   viewBox="0 0 238.125 238.125"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="abreuvoir.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.61580177"
+     inkscape:cx="488.79366"
+     inkscape:cy="327.21569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       id="custom">
+      <rect
+         id="bg"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         fill="#ffffff" />
+      <g
+         transform="matrix(1.3333333,0,0,-1.3333333,0,682.66667)"
+         id="g8">
+        <path
+           transform="translate(467.3467,58)"
+           d="M 0,0 -118.347,340.069 -156.46,327.931 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2030" />
+        <path
+           transform="translate(86.6328,58)"
+           d="M 0,0 114.48,327.931 76.367,340.069 -41.979,0 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2034" />
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2018">
+      <path
+         d="M 0,512 H 512 V 0 H 0 Z"
+         id="path2016" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#7d5a8f;fill-opacity:1;stroke:#ffffff;stroke-width:5.41472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path850"
+       cx="119.0625"
+       cy="119.0625"
+       r="116.35514" />
+    <g
+       id="g20"
+       transform="matrix(0.28639632,0,0,0.28639632,45.746474,45.746474)">
+      <g
+         id="g6">
+        <g
+           id="g4">
+          <path
+             d="m 165.765,344.39 c -7.2,-40.83 -20.87,-63.95 -27.56,-69.92 -4.23,7.9 -9.18,34.29 -1.98,75.12 3.66,20.77 9.64,39.95 16.63,53.8 5.823,-2.292 12.191,-4.654 16,-5.99 1.36,-15.08 0.29,-33.86 -3.09,-53.01 z M 60.995,61.99 h -15 v 401.95 c 23.375,-19.642 51.19,-35.842 79.24,-48.79 -7.99,-16.39 -14.52,-37.45 -18.56,-60.35 -9.07,-51.47 -4.53,-105.82 26.09,-111.21 30.61,-5.4 53.47,44.12 62.55,95.59 2.98,16.91 4.35,33.38 4.09,48.2 39.17,-11.7 80.41,-19.84 119.27,-23.41 9.42,-0.87 18.55,-1.44 27.32,-1.73 V 0 c -35.157,12.773 -78.56,61.99 -285,61.99 z m 180,240 c -24.81,0 -45,-20.19 -45,-45 0,-24.81 20.19,-45 45,-45 24.81,0 45,20.19 45,45 0,24.81 -20.19,45 -45,45 z m 45,-120.23 -10.71,3.2 c -74.893,22.345 -127.685,24.065 -139.29,25.67 v -90.32 c 8.441,-1.303 61.555,-4.006 130.26,-26.86 l 19.74,-6.57 z m 35.43,212.08 c -88.985,8.176 -216.064,45.616 -275.43,111.58 v 6.57 h 15 c 185.918,0 265.94,-58.723 285,-65.73 v -54.01 c -7.88,0.28 -16.1,0.81 -24.57,1.59 z m -80.43,-151.85 c -8.27,0 -15,6.73 -15,15 0,8.27 6.73,15 15,15 8.27,0 15,-6.73 15,-15 0,-8.27 -6.73,-15 -15,-15 z m -75,-94.89 v 30.25 c 30.34,-3.78 60.51,-9.82 90,-18.05 v -31.2 c -29.44,8.66 -59.59,15.02 -90,19 z"
+             id="path2" />
+        </g>
+      </g>
+      <g
+         id="g12">
+        <g
+           id="g10">
+          <path
+             d="m 375.995,31.99 v 432.82 c -27.823,13.273 -57.233,30.917 -105.94,47.18 h 135.94 v -480 z"
+             id="path8" />
+        </g>
+      </g>
+      <g
+         id="g18">
+        <g
+           id="g16">
+          <path
+             d="m 435.995,61.99 v 450 h 30 v -450 z"
+             id="path14" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
